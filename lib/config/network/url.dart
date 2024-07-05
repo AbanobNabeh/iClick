@@ -1,0 +1,61 @@
+class AppUrl {
+  //172.20.10.4
+  //192.168.1.9
+  static String apilick = 'http://192.168.1.9/api/';
+  static String profileimg = "http://192.168.1.9/storage/proilfe/";
+  static String sharelink = "http://iclick.web.app/";
+  static String imagechat = "http://192.168.1.9/storage/chat/";
+  static String imageposts = "http://192.168.1.9/storage/posts/";
+  static String imagereels = "http://192.168.1.9/storage/reels/";
+  static String stories = "http://192.168.1.9/storage/stories/";
+  static String basicimg =
+      "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg?t=st=1713127631~exp=1713131231~hmac=27297ce2539379595cc8c567e53242bcbb3d92a601f4d1d9d4e10552f0cbcbfb&w=740";
+  static String verifyotp = 'verifyotp';
+  static String signup = 'signup';
+  static String checkmail = 'checkmail';
+  static String forgotpassword = 'forgotpassword';
+  static String login = 'signin';
+  static String uploadstory = 'uploadstory';
+  static String getstories = 'getstories';
+  static String getmyprofile = 'getmyprofile';
+  static String uploadreel = 'uploadreel';
+  static String getreels = 'getreels';
+  static String addlike = 'addlike';
+  static String comment = 'addcomment';
+  static String getcomment = 'getcomment';
+  static String replaycomment = 'replay';
+  static String getreplies = 'getreplies';
+  static String likecom = 'likecomment';
+  static String likereplay = 'likereplay';
+  static String deletecomment = 'deletecomment';
+  static String deletereplay = 'deletereplay';
+  static String follow = 'follow';
+  static String unfollow = 'unfollow';
+  static String watchstory = 'storyseen';
+  static String likestory = 'likestory';
+  static String getviewers = 'getviewers';
+  static String getposts = 'getposts';
+  static String uploadpost = 'uploadpost';
+  static String countnotifiy = 'notifiunseen';
+  static String getnotifiy = 'getnotifiy';
+  static String getpostbyid = 'getpostbyid';
+  static String getreelbyid = 'getreelbyid';
+  static String seennotify = 'seennotify';
+  static String getUserinfo = 'getUserinfo';
+  static String getPostsuser = 'getPostsuser';
+  static String getReelsuser = 'getReelsuser';
+  static String uploaditemchat = 'uploaditemchat';
+  static String searchuser = 'searchuser';
+  static String muteNotification = 'muteNotification';
+  static String checkmute = 'checkmute';
+  static String unmute = 'unmute';
+  static String getfollowers = 'getfollowers';
+  static String getfollowing = 'getfollowing';
+  static String sendnotify = 'sendnotify';
+  static String updateprofile = 'updateprofile';
+  static String updateimage = 'updateimage';
+  static String resetpassword = 'resetpassword';
+  static String sendotp = 'sendotp';
+  static String removeuser = 'removeuser';
+  static String logout = 'logout';
+}
